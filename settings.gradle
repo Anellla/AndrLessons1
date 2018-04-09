@@ -1,0 +1,1 @@
+include ':app', ':lessonone', ':basicview', ':layoutfiles', ':layouts6', ':layout2', ':p0072_layoutprop', ':p0081_viewbyid', ':wsukraine', ':whitewaterslalom', ':p0101_listener', ':p0111_resvalues', ':p0121_logandmess', ':p0180constraintlayoutintro', ':p0131_menusimple', ':p0141_menuadv', ':navdrawer', ':Phalenopsis'

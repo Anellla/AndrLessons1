@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0141_MenuAdv</string>
+    <string name="apple">apple1</string>
+    <string name="plum3">plum3</string>
+    <string name="pear2">pear2</string>
+    <string name="settings">Settings</string>
+    <string name="fruits">Отобразить группу Fruits</string>
+    <string name="hidemenu">Отобразить пункт меню</string>
+</resources>

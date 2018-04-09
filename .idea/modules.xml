@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndrLessons1.iml" filepath="$PROJECT_DIR$/AndrLessons1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phalenopsis/Phalenopsis.iml" filepath="$PROJECT_DIR$/Phalenopsis/Phalenopsis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicview/basicview.iml" filepath="$PROJECT_DIR$/basicview/basicview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout2/layout2.iml" filepath="$PROJECT_DIR$/layout2/layout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutfiles/layoutfiles.iml" filepath="$PROJECT_DIR$/layoutfiles/layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layouts6/layouts6.iml" filepath="$PROJECT_DIR$/layouts6/layouts6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessonone/lessonone.iml" filepath="$PROJECT_DIR$/lessonone/lessonone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navdrawer/navdrawer.iml" filepath="$PROJECT_DIR$/navdrawer/navdrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0072_layoutprop/p0072_layoutprop.iml" filepath="$PROJECT_DIR$/p0072_layoutprop/p0072_layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0081_viewbyid/p0081_viewbyid.iml" filepath="$PROJECT_DIR$/p0081_viewbyid/p0081_viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101_listener/p0101_listener.iml" filepath="$PROJECT_DIR$/p0101_listener/p0101_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111_resvalues/p0111_resvalues.iml" filepath="$PROJECT_DIR$/p0111_resvalues/p0111_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121_logandmess/p0121_logandmess.iml" filepath="$PROJECT_DIR$/p0121_logandmess/p0121_logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" filepath="$PROJECT_DIR$/p0131_menusimple/p0131_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" filepath="$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" filepath="$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whitewaterslalom/whitewaterslalom.iml" filepath="$PROJECT_DIR$/whitewaterslalom/whitewaterslalom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsukraine/wsukraine.iml" filepath="$PROJECT_DIR$/wsukraine/wsukraine.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settings"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_border_black_48dp"
+        android:orderInCategory="1"
+        android:title="@string/settings"
+        android:visible="true"
+        app:showAsAction="always" />
+    <!--<item-->
+        <!--android:id="@+id/grass4"-->
+        <!--android:title="grass4" />-->
+    <group
+        android:id="@+id/fruits">
+        <item
+            android:id="@+id/plum3"
+            android:orderInCategory="3"
+            android:title="@string/plum3" />
+        <item
+            android:id="@+id/pear2"
+            android:orderInCategory="2"
+            android:title="@string/pear2" />
+    </group>
+</menu>

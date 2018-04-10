@@ -16,7 +16,8 @@
         android:text="@string/hidemenu"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:checked="true"/>
+        android:checked="true"
+        android:layout_marginLeft="16dp" />
 
     <CheckBox
         android:id="@+id/checkBox2"

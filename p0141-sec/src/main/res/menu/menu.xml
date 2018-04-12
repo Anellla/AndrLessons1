@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/vishnya"
+        android:title="vishnya"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search_black_24dp"/>
+    <item
+        android:id="@+id/cherry"
+        android:title="cherry" />
+    <group android:id="@+id/fruits">
+        <item
+            android:id="@+id/plum"
+            android:title="plum" />
+        <item
+            android:id="@+id/pear"
+            android:title="pear" />
+        <item
+            android:id="@+id/tomato"
+            android:title="tomato" />
+    </group>
+</menu>

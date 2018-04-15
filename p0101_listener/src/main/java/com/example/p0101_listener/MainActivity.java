@@ -7,6 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    //обьявим элементы
     TextView tvOut;
     Button btnOk;
     Button btnCancel;
@@ -48,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         };
+        //повесим обработчик событий на кнопку по айди
         btnOk.setOnClickListener(onClickListener);
         btnCancel.setOnClickListener(onClickListener);
         button2.setOnClickListener(onClickListener);

@@ -20,7 +20,12 @@ public class MainActivity extends AppCompatActivity {
         View.OnClickListener onClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                switch
+                switch (v.getId()) {
+                    case (R.id.grfr):
+
+
+                }
+
             }
         }
     }
